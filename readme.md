@@ -1,4 +1,3 @@
-conflito
 # Meu repositorio aula git
 ## Autor: Fábio Kenjy
 <h3> itens que eu aprendi </h3>
